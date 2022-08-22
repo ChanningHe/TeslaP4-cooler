@@ -1,6 +1,6 @@
 # TeslaP4-cooler
 
-Telsa P4 cooler bracket for use with 6025 fans in non-server cases.
+Telsa P4 cooler bracket with 6025 fans.
 ![P4_1](https://user-images.githubusercontent.com/52875777/185918601-8ba0968a-4d7b-48a4-9032-154e617285d7.jpg)
 ![P4_2](https://user-images.githubusercontent.com/52875777/185918613-4d688835-928b-45b6-88a6-e90d5e0990a7.jpg)
 ![P4_3](https://user-images.githubusercontent.com/52875777/185918617-74cf42e3-54d4-4a8e-b17e-7b72c0a23897.jpg)
